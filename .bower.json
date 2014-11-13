@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-multiselect",
+  "homepage": "https://github.com/katsgeorgeek/bootstrap-multiselect",
+  "_release": "15f803dfb2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "15f803dfb2d95c6a12efa969d3b19825f1e512c4"
+  },
+  "_source": "git://github.com/katsgeorgeek/bootstrap-multiselect.git",
+  "_target": "master",
+  "_originalSource": "git://github.com/katsgeorgeek/bootstrap-multiselect.git"
+}
